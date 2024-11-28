@@ -15,6 +15,8 @@ Hello! I'm Anderson Lima 👋
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Anders0nlima&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0nlima&hide_progress=true)
+
 - 💻 Languages & Tools
 <div style="display: flex; align-items: center;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/> 
