@@ -11,7 +11,7 @@ Hello! I'm Anderson Lima 👋
 
 - Front-end: React, HTML, CSS, JavaScript.
 - Back-end: Java, Spring Framework.
-🗣️ Languages: Portuguese (native), English (advanced), French (beginner).
+- Languages: Portuguese (native), English (advanced), French (beginner).
 
 
-![Anders0lima GitHub stats](https://github-readme-stats.vercel.app/api?Anders0nlima&show_icons=true&theme=radical)
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?Anders0nlima&show_icons=true&theme=radical)
