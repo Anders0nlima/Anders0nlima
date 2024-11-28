@@ -14,4 +14,4 @@ Hello! I'm Anderson Lima 👋
 - Languages: Portuguese (native), English (advanced), French (beginner).
 
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?Anders0nlima&show_icons=true&theme=radical)
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Anders0nlima&show_icons=true&theme=radical)
