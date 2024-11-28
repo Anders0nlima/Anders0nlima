@@ -12,20 +12,22 @@ Hello! I'm Anderson Lima 👋
 - Back-end: Java, Spring Framework.
 - Languages: Portuguese (native), English (advanced), French (beginner).
 
+<p>
 <img
-  aligh="left"
-  alt="github starts"
+  align="left"
+  alt="Anderson's GitHub Stats"
   height="200"
-  style="padding-right: 10px;"
+  width="50%"
   src="https://github-readme-stats.vercel.app/api?username=Anders0nlima&show_icons=true&theme=radical&include_all_commits=true&locale=en_US"
-  />
-  <img
-  aligh="left"
-  alt="github starts"
+/>
+<img
+  align="left"
+  alt="Anderson's Top Languages"
   height="200"
-  style="padding-right: 10px;"
+  width="50%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0nlima&hide_progress=true&theme=radical"
-  />
+/>
+</p>
 
 
 - 💻 Languages & Tools
