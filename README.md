@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello! I'm Anderson Lima 👋
 
-<!--
-**Anders0nlima/Anders0nlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 About Me
 
-Here are some ideas to get you started:
+☕ Currently learning Java.
+🛠️ Exploring back-end development with Java and Spring Boot.
+🌍 My goal is to become a full-stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📚 Technical Skills
+
+- Front-end: React, HTML, CSS, JavaScript.
+- Back-end: Java, Spring Framework.
+🗣️ Languages: Portuguese (native), English (advanced), French (beginner).
+
+
+![Anders0lima GitHub stats](https://github-readme-stats.vercel.app/api?Anders0nlima&show_icons=true&theme=radical)
