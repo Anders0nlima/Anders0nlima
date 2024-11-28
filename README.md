@@ -12,7 +12,7 @@ Hello! I'm Anderson Lima 👋
 - Back-end: Java, Spring Framework.
 - Languages: Portuguese (native), English (advanced), French (beginner).
 
-<p>
+<div style="display: flex; flex-direction: row; align-items: center;">
 <img
   align="left"
   alt="Anderson's GitHub Stats"
@@ -25,7 +25,7 @@ Hello! I'm Anderson Lima 👋
   height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0nlima&hide_progress=true&theme=radical"
 />
-</p>
+</div>
 
 
 
