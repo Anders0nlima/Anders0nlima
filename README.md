@@ -2,10 +2,9 @@ Hello! I'm Anderson Lima 👋
 
 🎯 About Me
 
-☕ Currently learning Java.
-🛠️ Exploring back-end development with Java and Spring Boot.
-🌍 My goal is to become a full-stack developer.
-
+- ☕ Currently learning Java.
+- 🛠️ Exploring back-end development with Java and Spring Boot.
+- 🌍 My goal is to become a full-stack developer.
 
 📚 Technical Skills
 
