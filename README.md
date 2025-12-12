@@ -8,8 +8,8 @@ Hello! I'm Anderson Lima 👋
 - Languages: Portuguese (native), English (advanced), French (beginner).
 
 <div style="display: flex;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anders0nlima&show_icons=true&theme=dracula">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0nlima&layout=pie">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0nlima&layout=donut-vertical">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anders0nlima&show_icons=true&theme=dracula">                         
 </div>
 
 - 💻 Languages & Tools
