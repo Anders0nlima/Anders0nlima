@@ -9,7 +9,7 @@ Hello! I'm Anderson Lima 👋
 
 <div style="display: flex;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anders0nlima&show_icons=true&theme=dracula">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0nlima&hidden_progress=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0nlima&layout=pie">
 </div>
 
 - 💻 Languages & Tools
