@@ -7,7 +7,10 @@ Hello! I'm Anderson Lima 👋
 - 🌍 My goal is to become a full-stack developer.
 - Languages: Portuguese (native), English (advanced), French (beginner).
 
+<div style="display: flex;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anders0nlima&show_icons=true&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0nlima&hidden_progress=true">
+</div>
 
 - 💻 Languages & Tools
 <div style="display: flex; align-items: center;"> 
