@@ -1,25 +1,34 @@
-Hello! I'm Anderson Lima 👋
+# Anderson Lima
+`Web Developer`
 
 🎯 About Me
 
-- ☕ Currently learning Java.
-- 🛠️ Exploring back-end development with Java and Spring Boot.
-- 🌍 My goal is to become a full-stack developer.
-- Languages: Portuguese (native), English (advanced), French (beginner).
+- 🎓 Information Systems student at UFPA.
+- 💻 Building full-stack web applications with React, Node.js, and Python (FastAPI).
+- 🛠️ Currently developing digital platforms to solve real-world problems.
+- 🌍 Expanding my skill set into Data Analysis (SQL, Power BI).
+- 🗣️ Languages: Portuguese (native), English (advanced), French (beginner).
+
+----
+## 📊 GitHub Stats
 
 <div style="display: flex;">             
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anders0nlima&show_icons=true&theme=dracula">     
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anders0nlima&layout=pie">
+<img height="180em" src="https://github-readme-stats-five-gules-80.vercel.app/api?username=Anders0nlima&show_icons=true&theme=dracula">     
+<img height="180em" src="https://github-readme-stats-five-gules-80.vercel.app/api/top-langs?username=Anders0nlima&layout=compact&theme=dracula">
 </div>
 
-- 💻 Languages & Tools
+----
+
+## 💻 Languages & Tools
 <div style="display: flex; align-items: center;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="Fastapi" width="40" height="40" title="Fastapi"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"   title="Spring Boot"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" title="Vite"/> 
