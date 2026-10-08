@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex;">             
-<img height="180em" src="https://github-readme-stats-five-gules-80.vercel.app/api?username=Anders0nlima&show_icons=true&theme=dracula&count_private=true">     
+<img height="180em" src="https://github-readme-stats-five-gules-80.vercel.app/api?username=Anders0nlima&show_icons=true&theme=dracula">     
 <img height="180em" src="https://github-readme-stats-five-gules-80.vercel.app/api/top-langs?username=Anders0nlima&layout=compact&theme=dracula">
 </div>
 
